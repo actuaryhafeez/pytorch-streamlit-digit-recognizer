@@ -12,9 +12,10 @@ This repository contains a simple digit recognition app built using PyTorch and 
 
 # App Preview
 Here are some GIFs showcasing the functionality of the app:
-![GIF 1](./data/gif1.gif)
-![GIF 2](./data/gif2.gif)
-![GIF 3](./data/gif3.gif)
+
+![ezgif com-video-to-gif](https://github.com/actuaryhafeez/pytorch-streamlit-digit-recognizer/assets/55107467/fe07633b-c576-403e-acbb-6e1f7994bd08)
+
+
 
 # How to Use
 Clone the repository:
